@@ -11,6 +11,9 @@
   <a href="https://veljkospasic.rf.gd" target="_blank">
     <img src="https://img.shields.io/badge/Veljko%20Spasic-green?style=for-the-badge" alt="My site Badge"/>
   </a>
+  <a href="https://github.com/Veljko003" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%201-black?logo=github&logoColor=white&style=for-the-badge" alt="My other GitHub"/>
+  </a>
 </div>
 <h1 align="center">
   hey there
