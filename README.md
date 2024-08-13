@@ -8,7 +8,7 @@
   <a href="https://stackoverflow.com/users/20046454/veljko03" target="_blank">
     <img src="https://img.shields.io/badge/Stack%20Overflow-orange?logo=stackoverflow&logoColor=white&style=for-the-badge" alt="Stack Overflow Badge"/>
   </a>
-  <a href="https://veljko-spasic.rf.gd" target="_blank">
+  <a href="https://veljko.app" target="_blank">
     <img src="https://img.shields.io/badge/Veljko%20Spasic-green?style=for-the-badge" alt="My site Badge"/>
   </a>
 </div>
